@@ -24,7 +24,7 @@ You are not required to write a code that runs (although if you feel comfortable
 
 We also would observe the way you approach debugging your code/pseudocode, and how you detect and fix problems.
 
-Resources: You can try using [LeetCode](https://leetcode.com/), which is a free tool that contains a lot of examples similar to the ones which will be asking.
+**Resources**: You can try using [LeetCode](https://leetcode.com/), which is a free tool that contains a lot of examples similar to the ones which will be asking.
 
 ## System Design
 
@@ -34,7 +34,7 @@ Think of a system design interview as a brainstorming session, driven by open-en
 
 Given the complexity of system design, it's impossible to cover all the various topics and tradeoffs in 45 minutes. Moreover, unlike coding interviews, there isn't just one optimal solution, and the interviewer may focus on different aspects of the system, part of the interview is to sense that focus and ensure that you listen and flow through with the conversation.
 
-Resources: A great resource is this Github repo [system-design-primer](https://github.com/donnemartin/system-design-primer) it contains loads of useful information and links to other resources and can help you for the interview, and for the real world too!
+**Resources**: A great resource is this Github repo [system-design-primer](https://github.com/donnemartin/system-design-primer) it contains loads of useful information and links to other resources and can help you for the interview, and for the real world too!
 
 ## Behavioural + Final Q&A
 

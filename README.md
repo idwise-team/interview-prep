@@ -42,4 +42,4 @@ This involves asking questions about the candidate's behaviour in past situation
 
 IDWise Team wishes you the best! 
 
-For any questions, you can contact [Sakher](https://www.linkedin.com/in/mssawan/) or [Heskol](https://www.linkedin.com/in/mheskol/) via LinkedIn
+For any questions, you can contact the team via the website: https://idwise.com/contact

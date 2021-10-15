@@ -16,6 +16,7 @@ Our interview consists of 3 main components:
 3.  Behavioural + final Q&A 15-30 minutes
 
 Coding Interview
+=============
 
 This part of the interview focuses on your coding and problem-solving skills, where you'll solve general coding questions, In this interview, there will be a high emphasis on testing your understanding of concepts like data structures, algorithms, and design.
 

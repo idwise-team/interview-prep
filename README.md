@@ -4,8 +4,7 @@ We are so excited to meet you for our IDWise Engineering Interview soon!
 
 This file should help you understand the structure of the interview.
 
-Interview Structure
-===================
+# Interview Structure
 
 Our interview consists of 3 main components:
 
@@ -13,10 +12,9 @@ Our interview consists of 3 main components:
 
 2.  System Design 30-45 minutes
 
-3.  Behavioural + final Q&A 15-30 minutes
+3.  Behavioural + Final Q&A 15-30 minutes
 
-Coding Interview
-=============
+## Coding Interview
 
 This part of the interview focuses on your coding and problem-solving skills, where you'll solve general coding questions, In this interview, there will be a high emphasis on testing your understanding of concepts like data structures, algorithms, and design.
 
@@ -28,8 +26,7 @@ We also would observe the way you approach debugging your code/pseudocode, and h
 
 Resources: You can try using [LeetCode](https://leetcode.com/), which is a free tool that contains a lot of examples similar to the ones which will be asking.
 
-System Design
-=============
+## System Design
 
 In this interview, we will give you an opportunity to discuss your experience and abilities and to showcase your skills in creating complex systems.
 
@@ -39,8 +36,7 @@ Given the complexity of system design, it's impossible to cover all the various 
 
 Resources: A great resource is this Github repo [system-design-primer](https://github.com/donnemartin/system-design-primer) it contains loads of useful information and links to other resources and can help you for the interview, and for the real world too!
 
-Behavioural + Final Q&A
-=======================
+## Behavioural + Final Q&A
 
 This involves asking questions about the candidate's behaviour in past situations that are similar to the ones required in the role you're trying to fill, and you will have the opportunity to ask questions about the company, team, processes, and tech of the company at the end too.
 

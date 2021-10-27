@@ -9,10 +9,15 @@ This file should help you understand the structure of the interview.
 Our interview consists of 3 main components:
 
 1.  Coding 30-45 minutes
-
 2.  System Design 30-45 minutes
-
 3.  Behavioural + Final Q&A 15-30 minutes
+
+
+## What will you need on the day?
+* ⏰ **Time:** Please block the time for the interview, 2.5 hours at least, as some of the parts can go over a bit..
+* 🌐 **Good Internet Conenction:** to ensure that your interview is not interrupted and you get the best experience.
+* 🎧 **Good Pair of Heaephones:** to allow the best communicatin.
+* 💻 **Computer:** it might seem obvious 🙂, but some candidates joined from their phones with no access to a computer, which wouldn't allow for the best interview experience!
 
 ## Coding Interview
 
@@ -26,6 +31,8 @@ We also would observe the way you approach debugging your code/pseudocode, and h
 
 **Resources**: You can try using [LeetCode](https://leetcode.com/), which is a free tool that contains a lot of examples similar to the ones which will be asking.
 
+**We use [codeshare.io](https://codeshare.io/) for this part of the interview.**
+
 ## System Design
 
 In this interview, we will give you an opportunity to discuss your experience and abilities and to showcase your skills in creating complex systems.
@@ -35,6 +42,8 @@ Think of a system design interview as a brainstorming session, driven by open-en
 Given the complexity of system design, it's impossible to cover all the various topics and tradeoffs in 45 minutes. Moreover, unlike coding interviews, there isn't just one optimal solution, and the interviewer may focus on different aspects of the system, part of the interview is to sense that focus and ensure that you listen and flow through with the conversation.
 
 **Resources**: A great resource is this Github repo [system-design-primer](https://github.com/donnemartin/system-design-primer) it contains loads of useful information and links to other resources and can help you for the interview, and for the real world too!
+
+**We use [ExcaliDraw](https://excalidraw.com/) for this part of the interview.**
 
 ## Behavioural + Final Q&A
 

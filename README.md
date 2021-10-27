@@ -49,6 +49,6 @@ Given the complexity of system design, it's impossible to cover all the various 
 
 This involves asking questions about the candidate's behaviour in past situations that are similar to the ones required in the role you're trying to fill, and you will have the opportunity to ask questions about the company, team, processes, and tech of the company at the end too.
 
-IDWise Team wishes you the best! 
+The IDWisers wishes you the best! 
 
 For any questions, you can contact the team via the website: https://idwise.com/contact

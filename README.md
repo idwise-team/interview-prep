@@ -14,7 +14,7 @@ Our interview consists of 3 main components:
 
 
 ## What will you need on the day?
-* ⏰ **Time:** Please block the time for the interview, 2.5 hours at least, as some of the parts can go over a bit..
+* ⏰ **Time:** Please block the time for the interview, 2.5 hours at least, as some of the parts can go over a bit.
 * 🌐 **Good Internet Conenction:** to ensure that your interview is not interrupted and you get the best experience.
 * 🎧 **Good Pair of Heaephones:** to allow the best communicatin.
 * 💻 **Computer:** it might seem obvious 🙂, but some candidates joined from their phones with no access to a computer, which wouldn't allow for the best interview experience!

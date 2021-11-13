@@ -54,3 +54,6 @@ This involves asking questions about the candidate's behaviour in past situation
 The IDWisers wishes you the best! 
 
 For any questions, you can contact the team via the website: https://idwise.com/contact
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs

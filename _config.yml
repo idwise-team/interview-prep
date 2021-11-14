@@ -1,2 +1,36 @@
 # Build settings
 remote_theme: pmarsceill/just-the-docs
+# Site settings
+title: "IDWise Tech Interview Prep Resources"
+description: "Very good luck with your inerview!"
+logo: "https://www.res.idwise.com/logos/idwise-preview.png"
+heading_anchors: false
+search_enabled: false
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2021 IDWise Ltd."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Google Analytics Tracking (optional)
+ga_tracking: UA-207402568-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false

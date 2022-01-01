@@ -1,1 +1,1 @@
-This page moved to [IDWise Developers Website](https://developers.idwise.com/interviewprep.html)
+This page moved to [IDWise Developers Website - https://idwi.se/prep](https://idwi.se/prep)
